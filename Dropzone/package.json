@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@sendsafely/sendsafely": "^1.1.3",
+    "chalk": "4.x",
+    "cli-progress": "3.x",
+    "make-fetch-happen": "11.x",
+    "yargs": "17.x"
+  }
+}
